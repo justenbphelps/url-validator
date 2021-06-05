@@ -22,7 +22,7 @@ npm install -g npm
 **Clone url-checker repository to local machine**
 
 ```bash
-git clone <GITHUB REPO URL>
+git clone https://github.com/justenbphelps/url-validator.git
 cd url-validator
 ```
 
