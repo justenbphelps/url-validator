@@ -53,3 +53,6 @@ After the validation is complete, there will be a file named `result.csv` that y
 ### Additional Info
 
 This is currently running on a Proxy server I am paying for and hosting. If this solution is useful to you and you think you will continue usage, I would prefer if you hosted it. I can walk you through how to do this at anytime :)
+
+Proxy host:
+https://brightdata.com/
