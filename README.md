@@ -1,5 +1,4 @@
 # URL Validator
----
 
 ## Setup:
 
@@ -7,11 +6,12 @@ _Note: this only has to be done once_
 
 Follow the below instructions in the order given
 
-**Install Node:** 
+**Install Node:**
 
 https://nodejs.org/en/download/
 
-**Install/Update NPM:** 
+**Install/Update NPM:**
+
 ```bash
 # all code given in these blocks
 # are to be run in the terminal
@@ -47,7 +47,6 @@ node validate.js <FILE_NAME.xlsx>
 ```
 
 After the validation is complete, there will be a file named `result.csv` that you can import into Excel or Google Sheets to see the validation results for each given url.
-
 
 ---
 
